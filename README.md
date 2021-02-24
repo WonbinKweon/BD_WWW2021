@@ -6,5 +6,4 @@ paper: https://doi.org/10.1145/3442381.3449878
 This is Pytorch implementation of BD.
 
 Version: \
-pytorch x \
-scipy   x 
+pytorch 1.7.0 \
