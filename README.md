@@ -3,7 +3,7 @@
 Wonbin Kweon, SeongKu Kang, and Hwanjo Yu. 2021. Bidirectional Distillation for Top-K Recommender System. In Proceedings of The Web Conference (WWW). \
 paper: https://doi.org/10.1145/3442381.3449878
 
-This is Pytorch implementation of BD.
+This is a Pytorch implementation of BD.
 
 Version: \
 pytorch 1.7.0 \
